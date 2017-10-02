@@ -1,4 +1,6 @@
-Print out all the paths leading from root to leaf
+Binary DFS using recursion
+
+Print out all the paths leading from root to leaf:
 
 ```cpp
 /**
